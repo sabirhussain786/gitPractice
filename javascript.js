@@ -1,1 +1,0 @@
-This is a simple text file. Text is ok.[D
